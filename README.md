@@ -21,7 +21,7 @@ Got jokes is a quick and fun way to get some dad jokes and programing jokes to a
 https://kf-got-jokes-react.netlify.app
 
 ## Loom Walkthough
-coming soon
+https://www.loom.com/share/fb16d4b387a64289a6fd31f4d4ecee02
 
 ## Links to other React API Projects
 - Lyrics Search: https://github.com/katherinevfry/lyrics-api
