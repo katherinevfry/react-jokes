@@ -5,7 +5,7 @@
 Got jokes is a quick and fun way to get some dad jokes and programing jokes to amaze your friends and family.
 
 ## User Stories
-- Click the button to get the punchline to the joke sestup provided
+- Click the button to get the punchline to the joke setup provided
 - The button then changes to allow you to get a new joke setup
 - Repeat ad infinitum!
 
